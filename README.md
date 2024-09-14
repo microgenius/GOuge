@@ -43,6 +43,8 @@ GOuge is a lightweight system monitoring tool that sits in your system tray, pro
 
 ## Usage
 
+You can download dmg file and run it => https://github.com/mehmetaltugakgul/GOuge/blob/main/GOuge.dmg
+
 After launching GOuge, you'll see a new icon in your system tray. Click on the icon to view a menu with the following information:
 
 - CPU usage percentage
