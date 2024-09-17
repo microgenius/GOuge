@@ -1,0 +1,8 @@
+2024/09/17 14:39:27 Trying to load icon from: gouge.png
+2024/09/17 14:39:27 Icon found at: gouge.png, size: 2004 bytes
+2024/09/17 14:39:27 Setting icon, size: 2004 bytes
+2024/09/17 14:45:10 Trying to load icon from: gouge.png
+2024/09/17 14:45:10 Failed to load icon from gouge.png: open gouge.png: no such file or directory
+2024/09/17 14:45:10 Trying to load icon from: Resources/gouge.png
+2024/09/17 14:45:10 Icon found at: Resources/gouge.png, size: 2004 bytes
+2024/09/17 14:45:10 Setting icon, size: 2004 bytes

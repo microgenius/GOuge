@@ -1,8 +1,8 @@
 # GOuge
 
-GOuge is a lightweight system monitoring tool that sits in your system tray, providing real-time information about your computer's CPU usage, RAM usage, disk usage, and system uptime.
+GOuge is a lightweight system monitoring tool that sits in your system tray, providing real-time information about your computer's CPU usage, RAM usage, disk usage, network usage, and system uptime.
 
-![image](https://github.com/user-attachments/assets/de209fc3-583a-475e-a710-fbc260b05083)
+![image](/Resources/screenshot.png)
 
 
 ## Features
