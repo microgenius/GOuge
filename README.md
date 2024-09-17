@@ -21,7 +21,7 @@ GOuge is a lightweight system monitoring tool that sits in your system tray, pro
 
 1. Clone the repository:
    ```
-   git clone https://github.com/mehmetaltugakgul/GOuge.git
+   git clone https://github.com/microgenius/GOuge.git
    cd GOuge
    ```
 
